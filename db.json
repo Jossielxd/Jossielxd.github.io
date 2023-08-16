@@ -1,5 +1,3 @@
-{
-  "musica": [
     {
       "id": 1,
       "title": "Chopin - Nocturne op.9 No.2",
@@ -112,8 +110,3 @@
       "description": "La música electrónica es un género musical que se compone y produce principalmente utilizando dispositivos electrónicos y tecnología de computacional. Se caracteriza por sus ritmos y sonidos sintéticos, y abarca una amplia gama de subgéneros, desde el ambient y el trance hasta el techno y el dubstep. Es conocido por su innovación sonora y su capacidad para crear paisajes sonoros únicos y envolvente.",
       "category": "Música electrónica"
     }
-  ],
-  "profile": {
-    "name": "Jossielxd"
-  }
-}
